@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 - 🔭 I currently build 2 full-stack projects 1st one was for Hackthon (Team project) and Another 1 was by Me 👨‍💻!!
-- 🌱 I’m currently learning React and DSA through Java.
+- 🌱 I’m currently Exploring DSA through Java.
 - 👀 I’m open to collaborating on any interesting coding projects, especially those with a focus on innovation.
 - 📫 How to reach me: dhirajdhande2@gmail.com
 - 😄 Pronouns: He/Him
