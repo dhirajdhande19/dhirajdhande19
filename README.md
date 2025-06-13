@@ -1,8 +1,8 @@
 # Hi there 👋, I'm Dhiraj
 
 ## 🚀 About Me
-- 🔭 I currently build 2 full-stack projects 1st one was for Hackthon (Team project) and Another 1 was by Me 👨‍💻!!
-- 🌱 I’m currently Exploring DSA through Java.
+- 🔭 I've Recently build 2 full-stack projects 1st one was for Hackthon (Team project) and Another 1 was by Me 👨‍💻!!
+- 🌱 I’m currently Creating a Project Called MindMate for my next Hackthon (Team of 3) 🤫 and Exploring DSA through Java 🚀.
 - 👀 I’m open to collaborating on any interesting coding projects, especially those with a focus on innovation.
 - 📫 How to reach me: dhirajdhande2@gmail.com
 - 😄 Pronouns: He/Him
