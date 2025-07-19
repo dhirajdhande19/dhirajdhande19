@@ -1,6 +1,6 @@
 # Heyyy 👋  
 I'm **Dhiraj Dhande** — a passionate full-stack developer who loves building useful tools, 
-experimenting with real-time features, and exploring creative ML-powered web apps.
+experimenting with real-time features, and Practicing DSA.
 
 ---
 
@@ -8,8 +8,7 @@ experimenting with real-time features, and exploring creative ML-powered web app
 
 - 🧑‍💻 Built 3 full-stack/real-time apps: **Tutorly**, **Postly**, and **VoidMeet**
 - 🎯 Recently completed **MindMate**, a frontend-only mental wellness tracker for the Hack4Health hackathon
-- 🤖 Currently building **2–3 ML-powered projects** using pre-trained models (face, voice, hand detection)
-- 📚 Practicing **DSA in Java** to improve problem-solving skills
+- 📚 Currently Practicing **DSA in Java** to improve problem-solving skills
 - 🏗️ Working on new fullstack projects to strengthen my portfolio
 - 📬 Reach me at: **dhirajdhande2@gmail.com**
 
@@ -24,7 +23,7 @@ experimenting with real-time features, and exploring creative ML-powered web app
 | **VoidMeet** | Real-time video chat app using WebRTC + Socket.IO | [Live Site 🔗](https://voidmeet.onrender.com) |
 | **MindMate** | Mental wellness tracker (frontend-only hackathon project) | [Live Site 🔗](https://mind-mate-tan.vercel.app) |
 
-> More exciting ML & fullstack projects coming soon...
+> More exciting fullstack projects coming soon...
 
 ---
 
