@@ -1,6 +1,7 @@
 # Heyyy 👋  
-I'm **Dhiraj Dhande** — a passionate full-stack developer who loves building useful tools, 
-experimenting with real-time features, and Practicing DSA.
+I'm **Dhiraj Dhande** — a passionate full-stack developer who loves building useful tools, experimenting with real-time features, and practicing DSA.
+
+> 🚀 Just launched my personal portfolio! → [portfolio-dhirajdhande.vercel.app](https://portfolio-dhirajdhande.vercel.app/)
 
 ---
 
@@ -8,7 +9,8 @@ experimenting with real-time features, and Practicing DSA.
 
 - 🧑‍💻 Built 3 full-stack/real-time apps: **Tutorly**, **Postly**, and **VoidMeet**
 - 🎯 Recently completed **MindMate**, a frontend-only mental wellness tracker for the Hack4Health hackathon
-- 📚 Currently Practicing **DSA in Java** to improve problem-solving skills
+- 🌐 Just launched my personal **Portfolio** with React + Tailwind + Framer Motion
+- 📚 Practicing **DSA in Java** to improve problem-solving skills
 - 🏗️ Working on new fullstack projects to strengthen my portfolio
 - 📬 Reach me at: **dhirajdhande2@gmail.com**
 
@@ -18,12 +20,13 @@ experimenting with real-time features, and Practicing DSA.
 
 | Project | Description | Live |
 |--------|-------------|------|
-| **Tutorly** | AI-powered tutor-matching app (Hackathon Team Project – Backend by me (ejs rendering)) | [Live Site 🔗](https://tutorly-jyu9.onrender.com) |
-| **Postly** | Medium-style blogging platform built solo using ejs rendering | [Live Site 🔗](https://postly-t64r.onrender.com) |
+| **Portfolio** | Clean, animated personal portfolio with contact form (EmailJS + reCAPTCHA) | [Live Site 🔗](https://portfolio-dhirajdhande.vercel.app/) |
+| **Tutorly** | AI-powered tutor-matching app (Hackathon Team Project – Backend by me using EJS) | [Live Site 🔗](https://tutorly-jyu9.onrender.com) |
+| **Postly** | Medium-style blogging platform built solo using EJS rendering | [Live Site 🔗](https://postly-t64r.onrender.com) |
 | **VoidMeet** | Real-time video chat app using WebRTC + Socket.IO | [Live Site 🔗](https://voidmeet.onrender.com) |
 | **MindMate** | Mental wellness tracker (frontend-only hackathon project) | [Live Site 🔗](https://mind-mate-tan.vercel.app) |
 
-> More exciting fullstack projects coming soon...
+> More fullstack projects coming soon...
 
 ---
 
@@ -36,6 +39,7 @@ experimenting with real-time features, and Practicing DSA.
 ![Express](https://skillicons.dev/icons?i=express)
 ![MongoDB](https://skillicons.dev/icons?i=mongodb)
 ![React](https://skillicons.dev/icons?i=react)
+![Tailwind](https://skillicons.dev/icons?i=tailwind)
 ![Git](https://skillicons.dev/icons?i=git)
 ![GitHub](https://skillicons.dev/icons?i=github)
 ![EJS](https://img.shields.io/badge/EJS-templating-green?style=for-the-badge&logo=javascript)
