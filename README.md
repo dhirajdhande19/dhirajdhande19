@@ -1,16 +1,15 @@
 # Heyyy 👋  
 I'm **Dhiraj Dhande** — a passionate full-stack developer who loves building useful tools, experimenting with real-time features, and practicing DSA.
 
-> 🚀 Just launched my personal portfolio! → [portfolio-dhirajdhande.vercel.app](https://portfolio-dhirajdhande.vercel.app/)
+> My personal portfolio! 🚀 → [portfolio-dhirajdhande.vercel.app](https://portfolio-dhirajdhande.vercel.app/)
 
 ---
 
 ## 🚀 About Me
 
 - 🧑‍💻 Built 3 full-stack/real-time apps: **Tutorly**, **Postly**, and **VoidMeet**
-- 🎯 Recently completed **MindMate**, a frontend-only mental wellness tracker for the Hack4Health hackathon
-- 🌐 Just launched my personal **Portfolio** with React + Tailwind + Framer Motion
-- 📚 Practicing **DSA in Java** to improve problem-solving skills
+- 🎯 Currently working on VoidMeet's New/Better version (V2) and 📚 Practicing **DSA in Java** to improve problem-solving skills
+- 🌐 Launched my personal **Portfolio** with React + Tailwind + Framer Motion + tsParticles + email.js + reCAPTCHA
 - 🏗️ Working on new fullstack projects to strengthen my portfolio
 - 📬 Reach me at: **dhirajdhande2@gmail.com**
 
