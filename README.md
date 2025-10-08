@@ -20,7 +20,7 @@ I'm **Dhiraj Dhande** — a passionate full-stack developer who loves building u
 | Project | Description | Live |
 |--------|-------------|------|
 | **Portfolio** | Clean, animated personal portfolio with contact form (EmailJS + reCAPTCHA) | [Live Site 🔗](https://portfolio-dhirajdhande.vercel.app/) |
-| **Tutorly** | AI-powered tutor-matching app (Hackathon Team Project – Backend by me using EJS) | [Live Site 🔗](https://tutorly-jyu9.onrender.com) |
+| **Tutorly** | AI-powered tutor app (Hackathon Team Project – Backend by me using EJS) | [Live Site 🔗](https://tutorly-jyu9.onrender.com) |
 | **Postly** | Medium-style blogging platform built solo using EJS rendering | [Live Site 🔗](https://postly-t64r.onrender.com) |
 | **VoidMeet** | Real-time video chat app using WebRTC + Socket.IO | [Live Site 🔗](https://voidmeet.onrender.com) |
 | **MindMate** | Mental wellness tracker (frontend-only hackathon project) | [Live Site 🔗](https://mind-mate-tan.vercel.app) |
