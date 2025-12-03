@@ -1,7 +1,7 @@
 # Heyyy 👋  
 I'm **Dhiraj Dhande**, a full-stack developer who loves building real-time apps, experimenting with WebRTC, and improving problem-solving skills with DSA (Java).
 
-🚀 **Portfolio:** https://portfolio-dhirajdhande.vercel.app/
+🚀 **Portfolio:** [portfolio-dhirajdhande](https://portfolio-dhirajdhande.vercel.app)
 
 ---
 
